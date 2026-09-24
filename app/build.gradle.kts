@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "app.simplyopen.spatialalarm"
+    namespace = "online.dmitrii.spatialalarm"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "app.simplyopen.spatialalarm"
+        applicationId = "online.dmitrii.spatialalarm"
         minSdk = 24
         targetSdk = 37
         versionCode = 1
